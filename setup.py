@@ -218,8 +218,8 @@ def main(argv):
             description="Full-featured Telegram client library for Python 3",
             long_description=long_description,
 
-            url='https://github.com/TeamUltroid/Telethon',
-            download_url='https://github.com/TeamUltroid/Telethon/releases',
+            url='https://github.com/itzNightmare17/Telethon',
+            download_url='https://github.com/itzNightmare17/Telethon/releases',
 
             author='Lonami Exo',
             author_email='totufals@hotmail.com',
